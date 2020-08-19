@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body,div,ul,li,dl,dt,dd,ol,p,h1,h2,h3,h4,h5,h6,form{margin: 0;padding: 0 ;}
+body, input, textarea, select, button, table{font: normal Dotum,'돋움'; font-size :12px}
+ul,ol,dl{list-style:none ;}
+img{border: 0; vertical-align: top;}
+ul{list-style: none; padding: 0; margin: 0;}
+a{color : #273743; text-decoration : none;}
+
+li, ol, ul { list-style: none}
+em, address{font-style : normal;}
+img, filedest {border : 0;}
+.ir{width : 0; height : 0; font-size : 0; line-height : 0; overflow: hidden; position: absolute; left: 0; top : 0}
+strong { font-weight : normal;}
