@@ -5,7 +5,7 @@
 #wrap{width : 100%;}
 #header{ background-color : #fff;
 }
-#banner{width : 100%; height : 470px; background-color: #a0d1ee;}
+#banner{width : 100%; height : 470px; background-color: #c9d2df;}
 #contents{}
 #footer{}
 
@@ -31,7 +31,8 @@
 .header .list2 li.box a {border : 1px solid #ccc;  border-radius : 3px; padding : 3px 5px 5px 5px;}
 .header .list2 li a {color : #797979;}
 
-
+.ban_left{background : url(../img/main.PNG); width: 527px; height: 282px; position: absolute; left: 0; top : 50px;}
+.ban_left img{ display: block;}
 .ban_right{
 	width : 600px; height : 270px; background-color: #fff; position : absolute; right : 0; top : 50px;}
 .ban_right .br_tit{background-color: #fff; height: 160px; padding : 45px 150px 50px 60px;}
